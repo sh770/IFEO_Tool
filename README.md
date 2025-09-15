@@ -40,8 +40,7 @@ Unblock EXE file(s)
 
 Exit
 
-yaml
-Copy code
+
 
 1. עקוב אחרי ההנחיות להזנת שמות הקבצים (עם או בלי .exe).
 
@@ -53,8 +52,7 @@ Copy code
 
 Enter EXE filenames to block (comma separated, with or without .exe): notepad.exe, calc
 
-markdown
-Copy code
+
 
 **הצגת קבצים חסומים:**
 
@@ -62,16 +60,14 @@ Currently blocked EXE files (with Debugger):
 notepad.exe
 calc.exe
 
-markdown
-Copy code
+
 
 **ביטול חסימה:**
 
 Enter EXE filenames to unblock (comma separated, with or without .exe): notepad.exe
 SUCCESS: Block removed for notepad.exe
 
-yaml
-Copy code
+
 
 ---
 
