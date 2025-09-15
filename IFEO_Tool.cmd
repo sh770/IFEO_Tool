@@ -89,7 +89,7 @@ for /f "usebackq delims=" %%L in (`reg query "HKLM\SOFTWARE\Microsoft\Windows NT
 )
 
 if "!FOUND!"=="0" (
-    echo (none)
+    echo No blocked EXE files found
 )
 
 endlocal
